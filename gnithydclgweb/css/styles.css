@@ -1,0 +1,29 @@
+body{
+	background-image: url('../img/imgbcg.jpg');
+	background-attachment:fixed;
+	padding-top: px;
+	padding-bottom: 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+.navbar-brand
+{
+    padding-top: 0px;
+	padding-bottom: 0px;
+}
+.navbar-default {
+    background-color: #00FFFF;
+    border-color: #00FFFF;
+}
+.dropdown-menu { 
+background-color: #00FFFF	; 
+}
+h1,h2,h3,h4,h5
+{font-family: 'Oswald', sans-serif;}
+.navbar-static-bottom {
+    border-radius: 0;
+    z-index: 1000;
+    border-width: 0 0 1px;
+    padding-right: 0;
+    padding-left: 0;
+    margin: 20px 0 0;
+}
